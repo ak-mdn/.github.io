@@ -1,0 +1,68 @@
+
+/* Reset element */
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+img,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+section,
+article,
+aside,
+header,
+footer,
+nav {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+/* Reset headings */
+h1,
+h2,
+h3,
+h4 {
+    font-size: 1em;
+    font-weight: normal;
+}
+
+/* Reset lists */
+ul {
+    list-style: none;
+}
+
+/* Reset hyperlinks */
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* Reset form elements */
+button,
+input,
+select,
+textarea {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
